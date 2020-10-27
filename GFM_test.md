@@ -305,4 +305,13 @@ Use the `printf()` function.
 
 ### Emoji
 
-Some emoji
+In GFM, we can use :emoji: as an emoji and the render will show it. For example, some common emojis:
+:ant:
+:grinning:
+:blush:
+:ghost:
+:two_hearts:
+
+Some customs emojis:
+:octocat:
+:atom:
